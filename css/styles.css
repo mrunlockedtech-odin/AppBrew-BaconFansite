@@ -5,11 +5,11 @@ h1 {
     font-size: 200px;
 }
 
-/*
-img {
-    background-color: red;
+
+img:hover {
+    background-color: gold;
 }
-*/
+
 
 /******************Class Selectors************/
 .bacon {
@@ -17,4 +17,10 @@ img {
 }
 .broccoli {
     background-color: red;
+}
+
+/******************ID Selectors************/
+
+#heading {
+    color: blue;
 }
